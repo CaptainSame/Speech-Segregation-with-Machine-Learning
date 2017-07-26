@@ -11,6 +11,9 @@ Three-dimensional feature vectors are used for implementing three machine learni
 **Maximum Accuracies on broadcast news data**
 
 K Nearest Neighbours with handcrafted features : 87.10 %
+
 AdaBoost with handcrafted features : 86.79 %
+
 Artificial Neural Network with handcrafted features : 88.42 %
+
 Artificial Neural Network with log Mel-filterbank features : 96.12% 
