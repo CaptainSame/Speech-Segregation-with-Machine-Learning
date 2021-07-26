@@ -1,4 +1,4 @@
-# Automatic-Speech-detection-using-Machine-Learning
+# Speech-detection-and-segregation-using-Machine-Learning
 
 Created by : Sameer Sharma
 
